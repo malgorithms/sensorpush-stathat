@@ -1,0 +1,27 @@
+{
+  "version": "1.0.0",
+  "description": "just a script to push sensorpush to stathat",
+  "main": "index.js",
+  "dependencies": {
+    "iced-error": "0.0.13",
+    "stathat": "0.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malgorithms/sensorpush-stathat.git"
+  },
+  "keywords": [
+    "sensorpush",
+    "stathat"
+  ],
+  "author": "Chris Coyne <ccoyne77@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malgorithms/sensorpush-stathat/issues"
+  },
+  "homepage": "https://github.com/malgorithms/sensorpush-stathat#readme"
+}
