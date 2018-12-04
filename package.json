@@ -4,6 +4,7 @@
   "main": "index.js",
   "dependencies": {
     "iced-error": "0.0.13",
+    "sensorpush": "0.0.3",
     "stathat": "0.0.8"
   },
   "devDependencies": {},
