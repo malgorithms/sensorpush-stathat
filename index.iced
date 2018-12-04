@@ -8,7 +8,6 @@ stathat.useHTTPS = true
 # ====================================================================
 
 recordValue = (str, v) ->
-
   console.log "#{new Date()} StatHat value: #{v.toFixed(3)} : #{str}"
   stathat.trackEZValue config.stathat.email, "#{config.stathat.prefix}#{str}", v, ->
 
